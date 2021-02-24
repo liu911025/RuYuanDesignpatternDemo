@@ -4,18 +4,18 @@ import java.util.ArrayList;
 
 public class Waitress {
 
-    public static void main(String[] args) {
-        Waitress waitress = new Waitress();
-        waitress.printMenu();
+    private DinerMenu dinerMenu;
+    private PancakeHouseMenu pancakeHouseMenu;
+
+    public Waitress(DinerMenu dinerMenu, PancakeHouseMenu pancakeHouseMenu) {
+        this.dinerMenu = dinerMenu;
+        this.pancakeHouseMenu = pancakeHouseMenu;
     }
 
     /**
      * 打印出菜单上的每一项
      */
     public void printMenu() {
-        DinerMenu dinerMenu = new DinerMenu();
-        PancakeHouseMenu pancakeHouseMenu = new PancakeHouseMenu();
-
         // 遍历DinerMenu
         MenuItem[] dinerMenuItems = dinerMenu.getMenuItems();
         for (MenuItem menuItem : dinerMenuItems) {

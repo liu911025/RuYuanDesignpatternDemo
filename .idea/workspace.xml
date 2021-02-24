@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311a2d20-d774-44dc-b075-244bc8dec6d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -85,20 +88,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="125">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="119" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="119" />
+            <state relative-caret-position="150">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -126,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/DinerMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/PancakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Iterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenuIterator.java" />
@@ -134,6 +154,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" />
       </list>
     </option>
   </component>
@@ -248,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614157172640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614159109244" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HeadFirst/designpattern/headfirst" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -272,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Waitress (1)">
+  <component name="RunManager" selected="Application.WaitressTest">
     <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.zhsh.IteratorPatternDemo" />
       <module name="designpattern-demo" />
@@ -312,6 +335,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WaitressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.two.WaitressTest" />
+      <module name="designpattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.study.iterator.headFast.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WithoutIteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.zhsh.WithoutIteratorPatternDemo" />
       <module name="designpattern-demo" />
@@ -327,6 +363,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaitressTest" />
         <item itemvalue="Application.Waitress (1)" />
         <item itemvalue="Application.Waitress" />
         <item itemvalue="Application.IteratorPatternDemo" />
@@ -344,7 +381,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614131443840</updated>
-      <workItem from="1614131448318" duration="8353000" />
+      <workItem from="1614131448318" duration="9425000" />
     </task>
     <task id="LOCAL-00001" summary="Waitress第一版">
       <created>1614148007550</created>
@@ -360,11 +397,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614149182591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Waitress第二版,创建迭代器">
+      <created>1614157237946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614157237946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8353000" />
+    <option name="totallyTimeSpent" value="9425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -512,13 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="119" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -563,10 +600,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="125">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
