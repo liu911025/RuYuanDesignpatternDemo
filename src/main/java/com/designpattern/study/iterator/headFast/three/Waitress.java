@@ -6,10 +6,10 @@ import java.util.Iterator;
  * Java自带迭代器
  */
 public class Waitress {
-    private DinerMenu dinerMenu;
-    private PancakeHouseMenu pancakeHouseMenu;
+    private Menu dinerMenu;
+    private Menu pancakeHouseMenu;
 
-    public Waitress(DinerMenu dinerMenu, PancakeHouseMenu pancakeHouseMenu) {
+    public Waitress(Menu dinerMenu, Menu pancakeHouseMenu) {
         this.dinerMenu = dinerMenu;
         this.pancakeHouseMenu = pancakeHouseMenu;
     }
