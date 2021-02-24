@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311a2d20-d774-44dc-b075-244bc8dec6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/desc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,40 +21,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/CafeMenu.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/Waitress.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="-438">
+              <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/WaitressTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="175">
+              <caret line="42" column="65" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="262">
+              <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -106,6 +117,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/DinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/AlternatingDinerMenuIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/desc.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java" />
       </list>
     </option>
   </component>
@@ -175,7 +192,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -185,18 +202,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="headFast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="headFast" type="462c0819:PsiDirectoryNode" />
-              <item name="four" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614175554682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614176713150" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HeadFirst/designpattern/headfirst" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -218,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\composite\headFast\one" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator\headFast\five" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator\headFast\four" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator\headFast\three" />
@@ -236,20 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WaitressTest (3)">
-    <configuration name="Waitress (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.two.Waitress" />
-      <module name="designpattern-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.designpattern.study.iterator.headFast.two.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WaitressTest (4)">
     <configuration name="WaitressTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.one.WaitressTest" />
       <module name="designpattern-demo" />
@@ -289,6 +282,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WaitressTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.headFast.one.WaitressTest" />
+      <module name="designpattern-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.study.composite.headFast.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WaitressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.two.WaitressTest" />
       <module name="designpattern-demo" />
@@ -304,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaitressTest (4)" />
         <item itemvalue="Application.WaitressTest (3)" />
         <item itemvalue="Application.WaitressTest (2)" />
         <item itemvalue="Application.WaitressTest (1)" />
         <item itemvalue="Application.WaitressTest" />
-        <item itemvalue="Application.Waitress (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +330,7 @@
       <updated>1614131443840</updated>
       <workItem from="1614131448318" duration="9425000" />
       <workItem from="1614170058651" duration="460000" />
-      <workItem from="1614172554884" duration="2986000" />
+      <workItem from="1614172554884" duration="4138000" />
     </task>
     <task id="LOCAL-00001" summary="Waitress第一版">
       <created>1614148007550</created>
@@ -368,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614174954605</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Waitress第四版,交替菜单">
+      <created>1614175575620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614175575620</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12871000" />
+    <option name="totallyTimeSpent" value="14023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -420,27 +433,10 @@
     <MESSAGE value="Waitress第三版,Java自身迭代器" />
     <MESSAGE value="Waitress第三版,Java自身迭代器,修改" />
     <MESSAGE value="Waitress第四版,添加Cafe菜单" />
-    <option name="LAST_COMMIT_MESSAGE" value="Waitress第四版,添加Cafe菜单" />
+    <MESSAGE value="Waitress第四版,交替菜单" />
+    <option name="LAST_COMMIT_MESSAGE" value="Waitress第四版,交替菜单" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/IteratorPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="157" column="5" lean-forward="true" selection-start-line="157" selection-start-column="5" selection-end-line="157" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#2776#2777#0" expanded="true" />
-            <element signature="e#2819#2820#0" expanded="true" />
-            <element signature="e#2845#2846#0" expanded="true" />
-            <element signature="e#2870#2871#0" expanded="true" />
-            <element signature="e#2926#2927#0" expanded="true" />
-            <element signature="e#2984#2985#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/WithoutIteratorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -740,13 +736,55 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/DinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/desc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state>
+          <caret column="49" selection-start-column="41" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
         </state>
       </provider>
     </entry>
