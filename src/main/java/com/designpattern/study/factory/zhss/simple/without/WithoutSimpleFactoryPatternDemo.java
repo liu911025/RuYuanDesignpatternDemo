@@ -1,4 +1,6 @@
-package com.designpattern.study.factory.zhss.simple;
+package com.designpattern.study.factory.zhss.simple.without;
+
+import com.designpattern.study.factory.zhss.simple.Product1;
 
 /**
  * 未使用设计模式

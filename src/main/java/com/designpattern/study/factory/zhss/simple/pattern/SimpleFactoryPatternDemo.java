@@ -1,4 +1,4 @@
-package com.designpattern.study.factory.zhss.simple;
+package com.designpattern.study.factory.zhss.simple.pattern;
 
 import com.designpattern.study.factory.zhss.inter.Product;
 
