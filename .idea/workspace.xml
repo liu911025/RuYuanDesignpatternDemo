@@ -2,16 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311a2d20-d774-44dc-b075-244bc8dec6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/AdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/WithoutAdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/desc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/OldInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/OldInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/desc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/AbstractCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/TempalteMethodPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/WithoutTempalteMethodPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/MenuComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/desc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/desc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/CompositeIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/CompositeIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/MenuComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/NullIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/NullIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/CafeMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/CafeMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/three/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/WaitressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/desc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/desc.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,97 +70,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/WithoutIteratorPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="200">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/IteratorPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+            <state relative-caret-position="100">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/OldInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/OldInterfaceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="4" column="54" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/AbstractCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/WithoutTempalteMethodPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/WithoutAdapterPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/TempalteMethodPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="305">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/AdapterPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -140,18 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/MenuItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenuIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/DinerMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenu.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenuIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/three/Menu.java" />
@@ -187,10 +206,22 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/NewInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/OldInterfaceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/WithoutAdapterPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceAdapterImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/AdapterPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/desc.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/desc.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/AbstractCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/DiscountCalculator1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/DiscountCalculator2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/TempalteMethodPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/WithoutTempalteMethodPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -260,7 +291,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -269,7 +300,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="zhss" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,7 +310,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="zhss" type="462c0819:PsiDirectoryNode" />
               <item name="inter" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -290,7 +321,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="without" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,14 +347,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614217884148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614219497371" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\template" />
+      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.designpattern.study.template.zhss.inter" />
+      <recent name="com.designpattern.study.template.zhss.without" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\composite\headFast\two" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\composite\headFast\one" />
@@ -331,7 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterPatternDemo">
+  <component name="RunManager" selected="Application.TemplateMethodPatternDemo">
     <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.adapter.zhss.AdapterPatternDemo" />
       <module name="designpattern-demo" />
@@ -345,12 +398,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitressTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.three.WaitressTest" />
+    <configuration name="TemplateMethodPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.template.zhss.pattern.TemplateMethodPatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.iterator.headFast.three.*" />
+          <option name="PATTERN" value="com.designpattern.study.template.zhss.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,12 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitressTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.iterator.headFast.four.WaitressTest" />
+    <configuration name="WaitressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.headFirst.one.WaitressTest" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.iterator.headFast.four.*" />
+          <option name="PATTERN" value="com.designpattern.study.composite.headFirst.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,12 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitressTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.headFast.one.WaitressTest" />
+    <configuration name="WaitressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.headFirst.two.WaitressTest" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.composite.headFast.one.*" />
+          <option name="PATTERN" value="com.designpattern.study.composite.headFirst.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +437,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitressTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.headFast.two.WaitressTest" />
+    <configuration name="WithoutTemplateMethodPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.template.zhss.without.WithoutTemplateMethodPatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.composite.headFast.two.*" />
+          <option name="PATTERN" value="com.designpattern.study.template.zhss.without.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateMethodPatternDemo" />
+        <item itemvalue="Application.WithoutTemplateMethodPatternDemo" />
         <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.WaitressTest (5)" />
         <item itemvalue="Application.WaitressTest (4)" />
-        <item itemvalue="Application.WaitressTest (3)" />
-        <item itemvalue="Application.WaitressTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +473,7 @@
       <workItem from="1614131448318" duration="9425000" />
       <workItem from="1614170058651" duration="460000" />
       <workItem from="1614172554884" duration="9633000" />
-      <workItem from="1614216118640" duration="1694000" />
+      <workItem from="1614216118640" duration="3212000" />
     </task>
     <task id="LOCAL-00001" summary="Waitress第一版">
       <created>1614148007550</created>
@@ -478,11 +531,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614176879742</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="zhss适配器设计模式">
+      <created>1614217960259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614217960259</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21347000" />
+    <option name="totallyTimeSpent" value="22865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -497,8 +557,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34590164" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36065573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36065573" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -507,7 +567,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -532,19 +592,20 @@
     <MESSAGE value="Waitress第四版,添加Cafe菜单" />
     <MESSAGE value="Waitress第四版,交替菜单" />
     <MESSAGE value="组合设计模式, 继续iterator设计模式中菜单" />
-    <option name="LAST_COMMIT_MESSAGE" value="组合设计模式, 继续iterator设计模式中菜单" />
+    <MESSAGE value="zhss适配器设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="zhss适配器设计模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/WaitressTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/WaitressTest.java</url>
           <line>126</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/Waitress.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/Waitress.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -553,31 +614,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/Waitress.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/Menu.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/PancakeHouseMenuIterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/PancakeHouseMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/CafeMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/MenuItem.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/DinerMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/WaitressTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/five/DinerMenuIterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/AlternatingDinerMenuIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" selection-start-column="41" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/Collection.java" />
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/AbstractCollection.java" />
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/AbstractList.java" />
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/Vector.java" />
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/NullIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/NullIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
@@ -585,35 +627,35 @@
       </provider>
     </entry>
     <entry file="jar://C:/tool/JDK/jdk1.8/src.zip!/java/util/Iterator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/PancakeHouseMenuIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/PancakeHouseMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/four/PancakeHouseMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/four/PancakeHouseMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/desc.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/desc.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/MenuComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
@@ -624,49 +666,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/MenuComponent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Menu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/one/WaitressTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/one/WaitressTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="13" column="37" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/WaitressTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/WaitressTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="127" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
@@ -677,14 +719,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/Menu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/CompositeIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/CompositeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
@@ -694,7 +736,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFast/two/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/headFirst/two/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
@@ -705,14 +747,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/MenuItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/MenuItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/PancakeHouseMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
@@ -723,42 +765,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/PancakeHouseMenuIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/PancakeHouseMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Iterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/WaitressTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/WaitressTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="80" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/one/WaitressTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/one/WaitressTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFast/two/Waitress.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/headFirst/two/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
@@ -772,7 +814,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/desc.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/desc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -795,7 +837,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/iterator/zhsh/IteratorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
-          <caret line="103" column="17" lean-forward="true" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -824,34 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/WithoutAdapterPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/AdapterPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -860,6 +874,122 @@
             <element signature="e#237#238#0" expanded="true" />
             <element signature="e#285#286#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/AdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/inter/NewInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/desc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/adapter/zhss/WithoutAdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/inter/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/desc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/DiscountCalculator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/AbstractCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/DiscountCalculator2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/pattern/TempalteMethodPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/template/zhss/without/WithoutTempalteMethodPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
