@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311a2d20-d774-44dc-b075-244bc8dec6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/42.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/43.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/CompositePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/WithoutCompositePatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,11 +66,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/43.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="47" column="25" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/WithoutCompositePatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/CompositePatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -176,12 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/without/WithoutBuilderPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/pattern/Builder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/pattern/Director.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/pattern/BuilderPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/optimizedPattern/Director.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/optimizedPattern/Builder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/desc.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/optimizedPattern/OptimizedPatternDemo.java" />
@@ -227,6 +271,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/Invoker.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/WithoutCompositePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/Department.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/CompositePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/43.md" />
       </list>
     </option>
   </component>
@@ -243,6 +293,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="106" />
@@ -296,17 +352,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +365,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614353013695" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614353752014" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -328,23 +374,23 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\template" />
+      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.designpattern.study.composite.zhss.pattern" />
+      <recent name="com.designpattern.study.command.zhss" />
+      <recent name="com.designpattern.study.mediator.without" />
+      <recent name="com.designpattern.study.facade.zhss" />
+      <recent name="com.designpattern.study.factory.zhss.abstracte.pattern" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\mediator\pattern2" />
       <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\mediator\pattern" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\builder\zhss\optimizedPattern" />
       <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\factory\zhss\method\pattern" />
       <recent name="F:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\composite\headFast\two" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.designpattern.study.mediator.without" />
-      <recent name="com.designpattern.study.facade.zhss" />
-      <recent name="com.designpattern.study.factory.zhss.abstracte.pattern" />
-      <recent name="com.designpattern.study.factory.zhss.abstracte.inter" />
-      <recent name="com.designpattern.study.factory.zhss.abstracte" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\template" />
-      <recent name="E:\study\RuYuan\designpattern-demo\src\main\java\com\designpattern\study\iterator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandPatternDemo">
+  <component name="RunManager" selected="Application.CompositePatternDemo">
     <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.designpattern.study.command.zhss.CommandPatternDemo" />
       <module name="designpattern-demo" />
@@ -373,12 +419,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediatorPattern2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.zhss.pattern2.MediatorPattern2Demo" />
+    <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.zhss.pattern.CompositePatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.mediator.zhss.pattern2.*" />
+          <option name="PATTERN" value="com.designpattern.study.composite.zhss.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,12 +458,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithoutMediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.zhss.without.WithoutMediatorPatternDemo" />
+    <configuration name="WithoutCompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.composite.zhss.without.WithoutCompositePatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.mediator.zhss.without.*" />
+          <option name="PATTERN" value="com.designpattern.study.composite.zhss.without.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,11 +473,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositePatternDemo" />
+        <item itemvalue="Application.WithoutCompositePatternDemo" />
         <item itemvalue="Application.CommandPatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.ProxyPatternDemo" />
-        <item itemvalue="Application.MediatorPattern2Demo" />
-        <item itemvalue="Application.WithoutMediatorPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -586,11 +632,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614352640496</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="zhss 命令模式">
+      <created>1614353051682</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1614353051682</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44067000" />
+    <option name="totallyTimeSpent" value="44804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -605,7 +658,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.53114754" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33114755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36065573" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -619,7 +672,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Codota" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -650,7 +703,8 @@
     <MESSAGE value="zhss Mediator中介者设计模式" />
     <MESSAGE value="zhss Proxy 代理模式" />
     <MESSAGE value="zhss 使用JDK自带观察者" />
-    <option name="LAST_COMMIT_MESSAGE" value="zhss 使用JDK自带观察者" />
+    <MESSAGE value="zhss 命令模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="zhss 命令模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -671,62 +725,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/prototype/zhss/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/prototype/zhss/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-          <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/prototype/zhss/pattern/PrototypePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/factory/zhss/simple/pattern/ProductFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/factory/zhss/simple/without/WithoutSimpleFactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/factory/zhss/method/without/Product1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1120,8 +1118,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/command/zhss/CommandPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="225">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/CompositePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/pattern/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/zhss/without/WithoutCompositePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/composite/43.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
