@@ -1,6 +1,6 @@
-package com.designpattern.study.mediator.pattern;
+package com.designpattern.study.mediator.zhss.pattern;
 
-import com.designpattern.study.mediator.inter.IModule;
+import com.designpattern.study.mediator.zhss.inter.IModule;
 
 public class ModuleA implements IModule {
     Mediator mediator;

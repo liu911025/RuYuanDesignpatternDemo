@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="311a2d20-d774-44dc-b075-244bc8dec6d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/40.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/inter/IModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/inter/IModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/inter/IModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/MediatorPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/MediatorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/MediatorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/MediatorPattern2Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/MediatorPattern2Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/MediatorPattern2Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/WithoutMediatorPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/WithoutMediatorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/WithoutMediatorPatternDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="350">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#182#183#0" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
@@ -67,8 +94,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/MediatorPattern2Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/ProxyPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/MediatorPattern2Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -100,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/singleton/zhss/full/unsafe/Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/singleton/zhss/full/safe/SafeSingletonPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/singleton/zhss/full/innerClass/InnerClassSingletonPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/singleton/zhss/full/innerClass/Singleton.java" />
@@ -145,12 +192,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleB.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/MediatorPattern2Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/40.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/IProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/ProxyPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md" />
       </list>
     </option>
   </component>
@@ -169,10 +217,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
-    <option name="width" value="1378" />
-    <option name="height" value="733" />
+    <option name="x" value="106" />
+    <option name="y" value="161" />
+    <option name="width" value="1592" />
+    <option name="height" value="943" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,17 +268,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpattern-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="zhss" type="462c0819:PsiDirectoryNode" />
+              <item name="mediator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614307045698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614308694994" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -285,11 +323,11 @@
   </component>
   <component name="RunManager" selected="Application.ProxyPatternDemo">
     <configuration name="MediatorPattern2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.pattern2.MediatorPattern2Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.zhss.pattern2.MediatorPattern2Demo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.mediator.pattern2.*" />
+          <option name="PATTERN" value="com.designpattern.study.mediator.zhss.pattern2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,11 +336,11 @@
       </method>
     </configuration>
     <configuration name="MediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.pattern.MediatorPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.zhss.pattern.MediatorPatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.mediator.pattern.*" />
+          <option name="PATTERN" value="com.designpattern.study.mediator.zhss.pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,11 +375,11 @@
       </method>
     </configuration>
     <configuration name="WithoutMediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.without.WithoutMediatorPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.study.mediator.zhss.without.WithoutMediatorPatternDemo" />
       <module name="designpattern-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designpattern.study.mediator.without.*" />
+          <option name="PATTERN" value="com.designpattern.study.mediator.zhss.without.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -496,14 +534,22 @@
       <option name="project" value="LOCAL" />
       <updated>1614306640827</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="zhss Proxy 代理模式">
+      <created>1614307088018</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614307088018</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41856000" />
+    <option name="totallyTimeSpent" value="43094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -557,7 +603,8 @@
     <MESSAGE value="zhss外观设计模式" />
     <MESSAGE value="zhss构造器设计模式" />
     <MESSAGE value="zhss Mediator中介者设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="zhss Mediator中介者设计模式" />
+    <MESSAGE value="zhss Proxy 代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="zhss Proxy 代理模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -578,13 +625,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/without/WithoutBuilderPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="32" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/builder/zhss/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -849,14 +889,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/inter/IModule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/inter/IModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
@@ -869,7 +909,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
@@ -880,7 +920,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/ModuleC.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/ModuleC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
@@ -891,7 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/Mediator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="41" selection-end-column="5" />
@@ -906,80 +946,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleC.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/ModuleA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/ModuleA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleC.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/ModuleA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/ModuleA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/Mediator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/without/WithoutMediatorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/without/WithoutMediatorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern/MediatorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern/MediatorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="42" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/pattern2/MediatorPattern2Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/zhss/pattern2/MediatorPattern2Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -1017,16 +1047,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/ProxyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/proxy/zhss/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
             <element signature="e#285#286#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/designpattern/study/mediator/39.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

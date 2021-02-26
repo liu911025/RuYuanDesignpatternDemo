@@ -1,6 +1,6 @@
-package com.designpattern.study.mediator.pattern;
+package com.designpattern.study.mediator.zhss.pattern2;
 
-import com.designpattern.study.mediator.inter.IModule;
+import com.designpattern.study.mediator.zhss.inter.IModule;
 
 public class Mediator {
 
@@ -8,21 +8,9 @@ public class Mediator {
     IModule b;
     IModule c;
 
-    /*public Mediator(IModule a, IModule b, IModule c) {
+    public Mediator(IModule a, IModule b, IModule c) {
         this.a = a;
         this.b = b;
-        this.c = c;
-    }*/
-
-    public void setA(IModule a) {
-        this.a = a;
-    }
-
-    public void setB(IModule b) {
-        this.b = b;
-    }
-
-    public void setC(IModule c) {
         this.c = c;
     }
 

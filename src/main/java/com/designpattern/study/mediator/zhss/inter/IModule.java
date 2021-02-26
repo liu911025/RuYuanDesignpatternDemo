@@ -1,4 +1,4 @@
-package com.designpattern.study.mediator.inter;
+package com.designpattern.study.mediator.zhss.inter;
 
 public interface IModule {
     void execute();
